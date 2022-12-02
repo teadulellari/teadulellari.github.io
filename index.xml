@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tea Dulellari</title>
-    <link>http://example.org/</link>
+    <link>http://teushka.com/</link>
     <description>Recent content on Tea Dulellari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate><atom:link href="http://teushka.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/blog/my-first-blog/</link>
+      <link>http://teushka.com/blog/my-first-blog/</link>
       <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
       
-      <guid>http://example.org/blog/my-first-blog/</guid>
+      <guid>http://teushka.com/blog/my-first-blog/</guid>
       <description>I love my bebe</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/about/</link>
+      <link>http://teushka.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://teushka.com/about/</guid>
       <description>I am the amazing woman who is smart, passionate, and ameeyyyzing pizza maker. Also I code so guud</description>
     </item>
     
